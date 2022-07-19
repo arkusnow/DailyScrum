@@ -18,16 +18,16 @@ Soon, this band of misfits will make their way on the blog: [Agile 365 Developme
 
 ## The Project
 
-*Earn the Azure Administrator AZ-104 certification using Microsoft Learning paths
+* Earn the Azure Administrator AZ-104 certification using Microsoft Learning paths
 
-*Track study progress with Jira Company-managed project
+* Track study progress with Jira Company-managed project
 
-*Meet on Discord *Azure Learn Study Group* daily to perform labs over the live stream
+* Meet on Discord *Azure Learn Study Group* daily to perform labs over the live stream
 
 ## The Products
 
-*ASP.NET Website
+* ASP.NET Website
 
-*Xamarin *MAUI* Mobile Application
+* Xamarin *MAUI* Mobile Application
 
-*Active Directory Data Entry Application *with Reporting*
+* Active Directory Data Entry Application *with Reporting*
