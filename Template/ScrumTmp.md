@@ -1,4 +1,4 @@
-## Daily Scrum :clock7:
+## Daily Scrum :clock7: | 00-00-00
 
 > Progress | Problems | Plans
 
