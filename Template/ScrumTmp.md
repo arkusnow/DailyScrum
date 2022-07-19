@@ -2,6 +2,8 @@
 
 > Progress | Plans | Problems 
 
+---
+
 ### Progress [ Closed task from previous period ]  :on:
 
 :point_right: First level
@@ -10,11 +12,15 @@
 
 :point_right:
 
+---
+
 ### Plans [ Goals for next period ] :soon:
 
 :point_right:
 
 :point_right:
+
+---
 
 ### Problems [ Challenges ] :no_entry:
 
