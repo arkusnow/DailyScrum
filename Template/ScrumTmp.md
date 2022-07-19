@@ -1,20 +1,20 @@
-# Daily Scrum :clock7:
+## Daily Scrum :clock7:
 
 > Progress | Problems | Plans
 
-## Progress since last meeting  :on:
+### Progress since last meeting  :on:
 
 :point_right:
 
 :point_right:
 
-## Problems on deck :no_entry:
+### Problems on deck :no_entry:
 
 :point_right:
 
 :point_right:
 
-## Plans for next Sprint :soon:
+### Plans for next Sprint :soon:
 
 :point_right:
 
