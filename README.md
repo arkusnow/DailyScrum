@@ -6,13 +6,13 @@ Welcome to my workplace! You will see some things and may even learn an item or 
 
 You can perform a daily scrum in many ways.
 
-Here, I will use the triple P method; Progress, Plans, and Problems. 
+Here, I will use the triple **P** method; **P**rogress, **P**lans, and **P**roblems. 
 
-    1. Progress is where I list work that is "done" from the previous day.
+    1. **Progress** is where I list work that is "done" from the previous day.
 
-    2. Plans are the things that I need to get done before the next scrum.
+    2. **Plans** are the things that I need to get done before the next scrum.
 
-    3. Problems are challenges encountered during the progress from the previous work session.
+    3. **Problems** are challenges encountered during the progress from the previous work session.
 
 Soon, this band of misfits will make their way on the blog: [Agile 365 Development](https://www.arkuscloud.io).
 
