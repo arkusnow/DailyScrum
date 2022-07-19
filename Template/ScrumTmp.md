@@ -6,7 +6,7 @@
 
 :point_right: First level
 
-:arrow_lower_right: :arrow_upper_right: Second level
+:arrow_lower_right::arrow_upper_right: Second level
 
 :point_right:
 
