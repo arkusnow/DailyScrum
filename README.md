@@ -14,7 +14,7 @@ Here, I will use the triple **P** method; **P**rogress, **P**lans, and **P**robl
 
 3. **Problems** are challenges encountered during the progress from the previous work session.
 
-Soon, this band of misfits will make their way on the blog: [Agile 365 Development](https://www.arkuscloud.io).
+Soon, this band of misfits will make their way on the blog: [Scrum 365 Development](https://www.arkuscloud.io).
 
 ## The Project
 
